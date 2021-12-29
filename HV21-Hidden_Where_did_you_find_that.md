@@ -7,4 +7,4 @@ In [HV21.15] Christmas Bauble, you can see something else lurking within the QR 
 | --- | --- |
 | ![](render6.png) | Aha, another flag |
 
-### Flag: `HV21{hidd3n_ln_th3_cube}`
+### Flag: `HV21{hidd3n_1n_th3_cube}`

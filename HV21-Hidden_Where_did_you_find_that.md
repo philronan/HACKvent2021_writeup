@@ -1,7 +1,7 @@
 # [HV21-Hidden] Where did you find that??
 (Author: `Dr Nick`)
 
-In [HV21.15] Christmas Bauble, you can see something else lurking within the QR cube when displayed in wireframe mode. If you delete everything else and rotate this thing into view, it turns out to be another flag. Very sneaky!
+In [[HV21.15] Christmas Bauble](HV21.15_Christmas_Bauble.md), you can see something else lurking within the QR cube when displayed in wireframe mode. If you delete everything else and rotate this thing into view, it turns out to be another flag. Very sneaky!
 
 | ![](hello.jpg) | What's that lurking in the block at the bottom right? |
 | --- | --- |

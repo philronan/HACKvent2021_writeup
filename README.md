@@ -13,7 +13,7 @@ These are the ones I solved (\* I created these):
 - [[HV21.06] Snow Cube](HV21.06_Snow_Cube.md)
 - [[HV21.08] Flag Service](HV21.08_Flag_Service.md)
 - [[HV21.09] Brother Santa](HV21.09_Brother_Santa.md)
-- [[HV21.12] Santa’s Shuffle](HV21.09_Santas_Shuffle.md)
+- [[HV21.12] Santa’s Shuffle](HV21.12_Santas_Shuffle.md)
 - [[HV21.15] Christmas Bauble](HV21.15_Christmas_Bauble.md)
 - [[HV21-Hidden] Where did you find that??](HV21-Hidden_Where_did_you_find_that.md)
 - [[HV21.18] Lost Password](HV21.18_Lost_Password.md) \*
